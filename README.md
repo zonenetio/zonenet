@@ -6,6 +6,8 @@ Global Area Networking. Peer-to-Peer & End-to-End Encryption for every device, a
 
 This is ZoneNet Client, more https://zonenet.io
 
+> Windows, need to install [tap-windows](http://swupdate.openvpn.net/community/releases/tap-windows-9.21.2.exe) first, Copyright OpenVPN Technologies, Inc.
+
 ### Install CLI Client via [nami](https://github.com/txthinking/nami)
 
 ```
