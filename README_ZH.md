@@ -6,6 +6,8 @@
 
 这是 ZoneNet Client, 更多信息 https://zonenet.io
 
+> Windows, 需要先安装 [tap-windows](http://swupdate.openvpn.net/community/releases/tap-windows-9.21.2.exe), Copyright OpenVPN Technologies, Inc.
+
 ### 通过 [nami](https://github.com/txthinking/nami) 安装
 
 ```
