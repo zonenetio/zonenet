@@ -6,8 +6,6 @@
 
 这是 ZoneNet Client, 更多信息 https://zonenet.io
 
-## 客户端
-
 ### 通过 [nami](https://github.com/txthinking/nami) 安装
 
 ```
